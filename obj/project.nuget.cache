@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dnFfh5TP2MK3f7Syf5dtS259pS5qQsMsRk0SXOE5jbhui8IMGu6qbTva4xjS6J/xTVw0lay84qpHwu8lUH13Ag==",
+  "dgSpecHash": "HIUtrvgO2qt30zl1RB7IYWb19auJhKnqqqF08aFMHZLr3Deu2YrnCJMaCV3iL8KHtN1U/h6kgAhwZXFJd+5JJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wesley.selmer\\Documents\\dev\\dotnet\\api_eventos\\api_eventos.csproj",
+  "projectFilePath": "c:\\Users\\wesley.selmer\\Documents\\dev\\dotnet\\api_eventos\\api_eventos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.selmer\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\wesley.selmer\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

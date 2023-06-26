@@ -3,16 +3,14 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace api_eventos.Models;
 
-public class Evento {
+public class Quarto {
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
     public string? Id { get; set; }
 
     public string Nome { get; set; } = null!;
 
-    public string? Data { get; set; }
+    public decimal Capacidade { get; set; }
 
-    public string? Local { get; set; }
-
-    public string? Capacidade { get; set; }
+    public string? Detalhes { get; set; }
 }
